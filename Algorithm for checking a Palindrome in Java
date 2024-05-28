@@ -1,4 +1,4 @@
-Algorithm to check whether a word is a palindrome
+Algorithm to check whether a word is a palindrome.
 A palindrome is a word that reads forwards and backwards simultaneously.
 steps to checks are written below:
 Step1: Declare and Initiatalize a variable to be stored as a string
